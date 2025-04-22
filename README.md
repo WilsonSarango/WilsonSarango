@@ -1,6 +1,6 @@
 - 👋 Hi, I’m WilsonSarango
 - 👀 I’m interested in program
-- 🌱 I’m currently learning to programmer
+- 🌱 I’m currently learning to programmer language
 - 💞️ I’m looking to collaborate on learn
 - 📫 How to reach me, for wfsarango2@UTPL.edu.ec
 - 😄 Pronouns: Wil
